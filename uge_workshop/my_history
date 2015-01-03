@@ -1,0 +1,1000 @@
+  112  cd Desktop/
+  113  cd repo/
+  114  ls
+  115  cd
+  116  cd dev
+  117  cd F2JS/
+  118  cd class6/
+  119  ls
+  120  cd lib
+  121  ls
+  122  open jquery-1.11.1.js 
+  123  cd ..
+  124  ls
+  125  cd .
+  126  cd ..
+  127  ls
+  128  cd lab2-beg-track/
+  129  ls
+  130  node lab2.js 
+  131  node lab2.js 
+  132  node
+  133  node lab2.js 
+  134  node lab2.js 
+  135  node lab2.js 
+  136  node lab2.js 
+  137  node lab2.js 
+  138  node lab2.js 
+  139  node lab2.js 
+  140  node lab2.js 
+  141  node lab2.js 
+  142  cd
+  143  cd dev
+  144  cd F2JS/
+  145  ls
+  146   git clone https://github.com/mel-quark/lodash-practice.git
+  147  cd lodash-practice/
+  148  ls
+  149  npm install
+  150  open practice.js
+  151  node practice.js 
+  152  node practice.js 
+  153  node practice.js 
+  154  node practice.js 
+  155  node practice.js 
+  156  node practice.js 
+  157  node practice.js 
+  158  node practice.js 
+  159  node practice.js 
+  160  node practice.js 
+  161  node practice.js 
+  162  node practice.js 
+  163  node practice.js 
+  164  node practice.js 
+  165  node practice.js 
+  166  cd
+  167  cd dev
+  168  cd F2JS/
+  169  ls
+  170  cd lab2-beg-track/
+  171  ls
+  172  node lab2.js 
+  173  cd 
+  174  cd dev
+  175  cd F2JS/
+  176  ls
+  177  cd ca
+  178  cd class6/
+  179  ls
+  180  open kitten-toes.html 
+  181  node
+  182  ls
+  183  cd //
+  184  cd
+  185  cd dev
+  186  cd F2JS/
+  187  ls
+  188  cd lab2-beg-track/
+  189  ls
+  190  node lab2.js 
+  191  ls
+  192  node lab2.js 
+  193  node lab2.js 
+  194  node
+  195  node lab2.js 
+  196  ls
+  197  cd
+  198  ;s
+  199  ls
+  200  cd dev
+  201  ;s
+  202  ls
+  203  cd F2JS/
+  204  ls
+  205  git clone https://github.com/emresurmeli/simple-site.git
+  206  ls
+  207  cd simple-site/
+  208  ls
+  209  open hello.html 
+  210  subl . hello.html 
+  211  npm install
+  212  subl . hello.html 
+  213  npm install
+  214  node
+  215  cd ..
+  216  ls
+  217  npm install
+  218  cd simple-site/
+  219  ls
+  220  subl . package.json 
+  221  subl . package.json 
+  222  npm install --save express
+  223  ls
+  224  subl . server.js 
+  225  node server.js
+  226  node server.js
+  227  node server.js
+  228  node server.js
+  229  node server.js
+  230  node server.js
+  231  node server.js
+  232  node server.js
+  233  node server.js
+  234  node server.js
+  235  node server.js
+  236  node server.js
+  237  node server.js
+  238  node server.js
+  239  node server.js
+  240  node server.js
+  241  node server.js
+  242  node server.js
+  243  node server.js
+  244  node server.js
+  245  node server.js
+  246  node
+  247  git add .
+  248  git commit -m "inspirational server"
+  249  git push origin master
+  250  ls
+  251  subl . hello.html 
+  252  node server.js
+  253  node server.js
+  254  node server.js
+  255  node server.js
+  256  node server.js
+  257  node server.js 
+  258  open hello.html 
+  259  node server.js 
+  260  node server.js 
+  261  node server.js 
+  262  node server.js 
+  263  node server.js 
+  264  nom install --save http
+  265  ls
+  266  npm install --save http
+  267  node server.js 
+  268  heroku login
+  269  heroku git:remote -a jokes-and-inspirations
+  270  git add .
+  271  git commit -m "save for deploy"
+  272  git push heroku master
+  273  node
+  274  ls
+  275  cd ..
+  276  ls
+  277  node
+  278  ls
+  279  git clone  https://github.com/mel-quark/lodash-practice.git
+  280  cd lodash-practice/
+  281  ls
+  282  node practice.js 
+  283  node practice.js 
+  284  node practice.js 
+  285  node
+  286  node
+  287  node
+  288  node practice.js 
+  289  node practice.js 
+  290  node
+  291  ls
+  292  cd ..
+  293  ls
+  294  cd lab2-beg-track/
+  295  ls
+  296  node lab2.js 
+  297  node lab2.js 
+  298  node
+  299  ls
+  300  node lab2.js 
+  301  node lab2.js 
+  302  node lab2.js 
+  303  node lab2.js 
+  304  ./node_modules/.bin/grunt jshint
+  305  node lab2.js 
+  306  node lab2.js 
+  307  ./node_modules/.bin/grunt jshint
+  308  ./node_modules/.bin/grunt jscs
+  309  ./node_modules/.bin/grunt jscs
+  310  ./node_modules/.bin/grunt jscs
+  311  ./node_modules/.bin/grunt jscs
+  312  ./node_modules/.bin/grunt jscs
+  313  ./node_modules/.bin/grunt jscs
+  314  ./node_modules/.bin/grunt jscs
+  315  ./node_modules/.bin/grunt jscs
+  316  ./node_modules/.bin/grunt jscs
+  317  ./node_modules/.bin/grunt jscs
+  318  node lab2.js 
+  319  node lab2.js 
+  320  node lab2.js 
+  321  node lab2.js 
+  322  ls
+  323  ls
+  324  cd .. 
+  325  ls
+  326  cd lab1-beg-track/
+  327  ls
+  328  subl . lab1.js 
+  329  ./node_modules/.bin/grunt jshint
+  330  ./node_modules/.bin/grunt jscs
+  331  node lab1.js 
+  332  node lab1.js 
+  333  node lab1.js 
+  334  node lab1.js 
+  335  node lab1.js 
+  336  node lab1.js 
+  337  node lab1.js 
+  338  node lab1.js 
+  339  ls
+  340  cd
+  341  cd Downloads/
+  342  ls
+  343  subl . color-blocks.html
+  344  open color-blocks.html
+  345  open color-blocks.html
+  346  ls
+  347  cd
+  348  cd dev
+  349  cd F2JS/
+  350  ls
+  351  cd lab3-beg-track/
+  352  ls
+  353  node lab3.js 
+  354  node lab3.js 
+  355  node lab3.js 
+  356  node lab3.js 
+  357  node lab3.js 
+  358  node lab3.js 
+  359  node lab3.js 
+  360  node lab3.js 
+  361  node
+  362  node
+  363  la
+  364  ls
+  365  node lab3.js 
+  366  node lab3.js 
+  367  node lab3.js 
+  368  node lab3.js 
+  369  node lab3.js 
+  370  node lab3.js 
+  371  node lab3.js 
+  372  ./node_modules/.bin/grunt jshint
+  373  ;s
+  374  ls
+  375  ./node_modules/.bin/grunt jscs
+  376  ls
+  377  cd ..
+  378  ls
+  379  cd lab3
+  380  cd lab3-beg-track/
+  381  cd lab3-beg-track/
+  382  node lab3.js 
+  383  ./node_modules/.bin/grunt jshint
+  384  node lab3.js 
+  385  node lab3.js 
+  386  node
+  387  node lab3.js 
+  388  node lab3.js 
+  389  node lab3.js 
+  390  node lab3.js 
+  391  node lab3.js 
+  392  node lab3.js 
+  393  node lab3.js 
+  394  node lab3.js 
+  395  node lab3.js 
+  396  ./node_modules/.bin/grunt jshint
+  397  node
+  398  node lab3.js 
+  399  ls 
+  400  node lab3.js 
+  401  var hello = {
+  402    klingon: "nuqneH",  // home planet is Qo"noS
+  403    romulan: "Jolan\"tru", // home planet is Romulus
+  404    "federation standard": "hello" // home planet is Earth
+  405  };
+  406  node
+  407  .exit
+  408  node 
+  409  node 
+  410  node lab3.js 
+  411  ls
+  412  node lab3.js 
+  413  node 
+  414  node
+  415  ls
+  416  cd ..
+  417  subl . lab3-beg-track/
+  418  cd lab3-beg-track/
+  419  ls
+  420  node lab3.js 
+  421  node lab3.js 
+  422  ./node_modules/.bin/grunt jshint
+  423  ls
+  424  subl . Gruntfile.js 
+  425  cd ..
+  426  ls
+  427  cd lab2-beg-track/
+  428  ls
+  429  subl . Gruntfile.js 
+  430  node
+  431  ls
+  432  cd ..
+  433  ls
+  434  cd lab3-beg-track/
+  435  node lab3.js 
+  436  ls
+  437  cd ..
+  438  ls
+  439  cd sim
+  440  cd simple-site/
+  441  ls
+  442  open hello.html 
+  443  open Procfile 
+  444  subl . package.json 
+  445  node
+  446  ./node_modules/.bin/grunt jshint
+  447  ls
+  448  cd ,,
+  449  cd ..
+  450  ls
+  451  cd lab3-beg-track/
+  452  ls
+  453  ./node_modules/.bin/grunt jshint
+  454  node lab3.js 
+  455  node lab3.js 
+  456  node lab3.js 
+  457  node
+  458  ls
+  459  cd
+  460  cd Desktop/
+  461  ls
+  462  cd repo/
+  463  ls
+  464  open DataStructure.html 
+  465  ls
+  466  cd ..
+  467  ls
+  468  cd Bootstrap\ Website/
+  469  ls
+  470  cd B
+  471  cd BS3/
+  472  ls
+  473  open index.html 
+  474  node
+  475  cd
+  476  ls
+  477  pwd
+  478  cd /
+  479  ls
+  480  cd
+  481  ls
+  482  cd /
+  483  ls
+  484  ;s
+  485  ls
+  486  ls -t
+  487  git status
+  488  ls -t
+  489  ls -l
+  490  ls -lt
+  491  ls -r
+  492  ls
+  493  ls -tlr
+  494  ls -tl
+  495  ls help
+  496  help . ls
+  497  help
+  498  help ls
+  499  info ls
+  500  man ls
+  501  ls
+  502  man ls
+  503  man ls
+  504  man ls
+  505  man man
+  506  man ls
+  507  ls -d
+  508  man ls
+  509  ls -F
+  510  cd Desktop
+  511  ls
+  512  ls -F
+  513  man ls
+  514  ls -o
+  515  ls -t
+  516  ls -t
+  517  ls -r
+  518  ls -o
+  519  cd /
+  520  ls
+  521  ls -R
+  522  ls -p
+  523  ls -v
+  524   -v
+  525  cd 
+  526  ls
+  527  cd pwd
+  528  pwd
+  529  ls
+  530   ls -l
+  531  ls
+  532  cd Applications/
+  533  ls
+  534  cd ..
+  535  ls
+  536  cd dev/F2JS/
+  537  ls
+  538  cd ..
+  539  cdApplications
+  540  pwd
+  541  cd
+  542  pwd
+  543  ls
+  544  cd
+  545  cd dev
+  546  cd /
+  547  ls
+  548  cd Library/
+  549  ls
+  550  Ruby
+  551  cd Java
+  552  ls
+  553  cd JavaVirtualMachines/
+  554  ls
+  555  cd ..
+  556  ls
+  557  cd ..
+  558  ls
+  559  cd 
+  560  cd ../..
+  561  ls
+  562  cd dev
+  563  cd ../..
+  564  ls
+  565  cd ..\..
+  566  cd dev
+  567  cd ..\..
+  568  ls
+  569  ls
+  570  cd
+  571  l
+  572  ls
+  573  cd dev
+  574  ls
+  575  man cd
+  576  ls
+  577  cd
+  578  cd /
+  579  l
+  580  ls
+  581  cd
+  582  ls -
+  583  ls ~
+  584  ls -l
+  585  ls
+  586  cd ../..
+  587  ls
+  588  dev
+  589  cd dev
+  590  ls
+  591  cd
+  592  cd dev
+  593  ls
+  594  cd F2JS/
+  595  cd ../..
+  596  ls
+  597  ls .
+  598  ls
+  599  ls
+  600  ls~
+  601  ls ~
+  602  history
+  603  history 10
+  604  history less
+  605  history | less
+  606  history | less
+  607  man less
+  608  pwd
+  609  history 
+  610  cat
+  611  history > my_history
+  127  ls
+  128  cd lab2-beg-track/
+  129  ls
+  130  node lab2.js 
+  131  node lab2.js 
+  132  node
+  133  node lab2.js 
+  134  node lab2.js 
+  135  node lab2.js 
+  136  node lab2.js 
+  137  node lab2.js 
+  138  node lab2.js 
+  139  node lab2.js 
+  140  node lab2.js 
+  141  node lab2.js 
+  142  cd
+  143  cd dev
+  144  cd F2JS/
+  145  ls
+  146   git clone https://github.com/mel-quark/lodash-practice.git
+  147  cd lodash-practice/
+  148  ls
+  149  npm install
+  150  open practice.js
+  151  node practice.js 
+  152  node practice.js 
+  153  node practice.js 
+  154  node practice.js 
+  155  node practice.js 
+  156  node practice.js 
+  157  node practice.js 
+  158  node practice.js 
+  159  node practice.js 
+  160  node practice.js 
+  161  node practice.js 
+  162  node practice.js 
+  163  node practice.js 
+  164  node practice.js 
+  165  node practice.js 
+  166  cd
+  167  cd dev
+  168  cd F2JS/
+  169  ls
+  170  cd lab2-beg-track/
+  171  ls
+  172  node lab2.js 
+  173  cd 
+  174  cd dev
+  175  cd F2JS/
+  176  ls
+  177  cd ca
+  178  cd class6/
+  179  ls
+  180  open kitten-toes.html 
+  181  node
+  182  ls
+  183  cd //
+  184  cd
+  185  cd dev
+  186  cd F2JS/
+  187  ls
+  188  cd lab2-beg-track/
+  189  ls
+  190  node lab2.js 
+  191  ls
+  192  node lab2.js 
+  193  node lab2.js 
+  194  node
+  195  node lab2.js 
+  196  ls
+  197  cd
+  198  ;s
+  199  ls
+  200  cd dev
+  201  ;s
+  202  ls
+  203  cd F2JS/
+  204  ls
+  205  git clone https://github.com/emresurmeli/simple-site.git
+  206  ls
+  207  cd simple-site/
+  208  ls
+  209  open hello.html 
+  210  subl . hello.html 
+  211  npm install
+  212  subl . hello.html 
+  213  npm install
+  214  node
+  215  cd ..
+  216  ls
+  217  npm install
+  218  cd simple-site/
+  219  ls
+  220  subl . package.json 
+  221  subl . package.json 
+  222  npm install --save express
+  223  ls
+  224  subl . server.js 
+  225  node server.js
+  226  node server.js
+  227  node server.js
+  228  node server.js
+  229  node server.js
+  230  node server.js
+  231  node server.js
+  232  node server.js
+  233  node server.js
+  234  node server.js
+  235  node server.js
+  236  node server.js
+  237  node server.js
+  238  node server.js
+  239  node server.js
+  240  node server.js
+  241  node server.js
+  242  node server.js
+  243  node server.js
+  244  node server.js
+  245  node server.js
+  246  node
+  247  git add .
+  248  git commit -m "inspirational server"
+  249  git push origin master
+  250  ls
+  251  subl . hello.html 
+  252  node server.js
+  253  node server.js
+  254  node server.js
+  255  node server.js
+  256  node server.js
+  257  node server.js 
+  258  open hello.html 
+  259  node server.js 
+  260  node server.js 
+  261  node server.js 
+  262  node server.js 
+  263  node server.js 
+  264  nom install --save http
+  265  ls
+  266  npm install --save http
+  267  node server.js 
+  268  heroku login
+  269  heroku git:remote -a jokes-and-inspirations
+  270  git add .
+  271  git commit -m "save for deploy"
+  272  git push heroku master
+  273  node
+  274  ls
+  275  cd ..
+  276  ls
+  277  node
+  278  ls
+  279  git clone  https://github.com/mel-quark/lodash-practice.git
+  280  cd lodash-practice/
+  281  ls
+  282  node practice.js 
+  283  node practice.js 
+  284  node practice.js 
+  285  node
+  286  node
+  287  node
+  288  node practice.js 
+  289  node practice.js 
+  290  node
+  291  ls
+  292  cd ..
+  293  ls
+  294  cd lab2-beg-track/
+  295  ls
+  296  node lab2.js 
+  297  node lab2.js 
+  298  node
+  299  ls
+  300  node lab2.js 
+  301  node lab2.js 
+  302  node lab2.js 
+  303  node lab2.js 
+  304  ./node_modules/.bin/grunt jshint
+  305  node lab2.js 
+  306  node lab2.js 
+  307  ./node_modules/.bin/grunt jshint
+  308  ./node_modules/.bin/grunt jscs
+  309  ./node_modules/.bin/grunt jscs
+  310  ./node_modules/.bin/grunt jscs
+  311  ./node_modules/.bin/grunt jscs
+  312  ./node_modules/.bin/grunt jscs
+  313  ./node_modules/.bin/grunt jscs
+  314  ./node_modules/.bin/grunt jscs
+  315  ./node_modules/.bin/grunt jscs
+  316  ./node_modules/.bin/grunt jscs
+  317  ./node_modules/.bin/grunt jscs
+  318  node lab2.js 
+  319  node lab2.js 
+  320  node lab2.js 
+  321  node lab2.js 
+  322  ls
+  323  ls
+  324  cd .. 
+  325  ls
+  326  cd lab1-beg-track/
+  327  ls
+  328  subl . lab1.js 
+  329  ./node_modules/.bin/grunt jshint
+  330  ./node_modules/.bin/grunt jscs
+  331  node lab1.js 
+  332  node lab1.js 
+  333  node lab1.js 
+  334  node lab1.js 
+  335  node lab1.js 
+  336  node lab1.js 
+  337  node lab1.js 
+  338  node lab1.js 
+  339  ls
+  340  cd
+  341  cd Downloads/
+  342  ls
+  343  subl . color-blocks.html
+  344  open color-blocks.html
+  345  open color-blocks.html
+  346  ls
+  347  cd
+  348  cd dev
+  349  cd F2JS/
+  350  ls
+  351  cd lab3-beg-track/
+  352  ls
+  353  node lab3.js 
+  354  node lab3.js 
+  355  node lab3.js 
+  356  node lab3.js 
+  357  node lab3.js 
+  358  node lab3.js 
+  359  node lab3.js 
+  360  node lab3.js 
+  361  node
+  362  node
+  363  la
+  364  ls
+  365  node lab3.js 
+  366  node lab3.js 
+  367  node lab3.js 
+  368  node lab3.js 
+  369  node lab3.js 
+  370  node lab3.js 
+  371  node lab3.js 
+  372  ./node_modules/.bin/grunt jshint
+  373  ;s
+  374  ls
+  375  ./node_modules/.bin/grunt jscs
+  376  ls
+  377  cd ..
+  378  ls
+  379  cd lab3
+  380  cd lab3-beg-track/
+  381  cd lab3-beg-track/
+  382  node lab3.js 
+  383  ./node_modules/.bin/grunt jshint
+  384  node lab3.js 
+  385  node lab3.js 
+  386  node
+  387  node lab3.js 
+  388  node lab3.js 
+  389  node lab3.js 
+  390  node lab3.js 
+  391  node lab3.js 
+  392  node lab3.js 
+  393  node lab3.js 
+  394  node lab3.js 
+  395  node lab3.js 
+  396  ./node_modules/.bin/grunt jshint
+  397  node
+  398  node lab3.js 
+  399  ls 
+  400  node lab3.js 
+  401  var hello = {
+  402    klingon: "nuqneH",  // home planet is Qo"noS
+  403    romulan: "Jolan\"tru", // home planet is Romulus
+  404    "federation standard": "hello" // home planet is Earth
+  405  };
+  406  node
+  407  .exit
+  408  node 
+  409  node 
+  410  node lab3.js 
+  411  ls
+  412  node lab3.js 
+  413  node 
+  414  node
+  415  ls
+  416  cd ..
+  417  subl . lab3-beg-track/
+  418  cd lab3-beg-track/
+  419  ls
+  420  node lab3.js 
+  421  node lab3.js 
+  422  ./node_modules/.bin/grunt jshint
+  423  ls
+  424  subl . Gruntfile.js 
+  425  cd ..
+  426  ls
+  427  cd lab2-beg-track/
+  428  ls
+  429  subl . Gruntfile.js 
+  430  node
+  431  ls
+  432  cd ..
+  433  ls
+  434  cd lab3-beg-track/
+  435  node lab3.js 
+  436  ls
+  437  cd ..
+  438  ls
+  439  cd sim
+  440  cd simple-site/
+  441  ls
+  442  open hello.html 
+  443  open Procfile 
+  444  subl . package.json 
+  445  node
+  446  ./node_modules/.bin/grunt jshint
+  447  ls
+  448  cd ,,
+  449  cd ..
+  450  ls
+  451  cd lab3-beg-track/
+  452  ls
+  453  ./node_modules/.bin/grunt jshint
+  454  node lab3.js 
+  455  node lab3.js 
+  456  node lab3.js 
+  457  node
+  458  ls
+  459  cd
+  460  cd Desktop/
+  461  ls
+  462  cd repo/
+  463  ls
+  464  open DataStructure.html 
+  465  ls
+  466  cd ..
+  467  ls
+  468  cd Bootstrap\ Website/
+  469  ls
+  470  cd B
+  471  cd BS3/
+  472  ls
+  473  open index.html 
+  474  node
+  475  cd
+  476  ls
+  477  pwd
+  478  cd /
+  479  ls
+  480  cd
+  481  ls
+  482  cd /
+  483  ls
+  484  ;s
+  485  ls
+  486  ls -t
+  487  git status
+  488  ls -t
+  489  ls -l
+  490  ls -lt
+  491  ls -r
+  492  ls
+  493  ls -tlr
+  494  ls -tl
+  495  ls help
+  496  help . ls
+  497  help
+  498  help ls
+  499  info ls
+  500  man ls
+  501  ls
+  502  man ls
+  503  man ls
+  504  man ls
+  505  man man
+  506  man ls
+  507  ls -d
+  508  man ls
+  509  ls -F
+  510  cd Desktop
+  511  ls
+  512  ls -F
+  513  man ls
+  514  ls -o
+  515  ls -t
+  516  ls -t
+  517  ls -r
+  518  ls -o
+  519  cd /
+  520  ls
+  521  ls -R
+  522  ls -p
+  523  ls -v
+  524   -v
+  525  cd 
+  526  ls
+  527  cd pwd
+  528  pwd
+  529  ls
+  530   ls -l
+  531  ls
+  532  cd Applications/
+  533  ls
+  534  cd ..
+  535  ls
+  536  cd dev/F2JS/
+  537  ls
+  538  cd ..
+  539  cdApplications
+  540  pwd
+  541  cd
+  542  pwd
+  543  ls
+  544  cd
+  545  cd dev
+  546  cd /
+  547  ls
+  548  cd Library/
+  549  ls
+  550  Ruby
+  551  cd Java
+  552  ls
+  553  cd JavaVirtualMachines/
+  554  ls
+  555  cd ..
+  556  ls
+  557  cd ..
+  558  ls
+  559  cd 
+  560  cd ../..
+  561  ls
+  562  cd dev
+  563  cd ../..
+  564  ls
+  565  cd ..\..
+  566  cd dev
+  567  cd ..\..
+  568  ls
+  569  ls
+  570  cd
+  571  l
+  572  ls
+  573  cd dev
+  574  ls
+  575  man cd
+  576  ls
+  577  cd
+  578  cd /
+  579  l
+  580  ls
+  581  cd
+  582  ls -
+  583  ls ~
+  584  ls -l
+  585  ls
+  586  cd ../..
+  587  ls
+  588  dev
+  589  cd dev
+  590  ls
+  591  cd
+  592  cd dev
+  593  ls
+  594  cd F2JS/
+  595  cd ../..
+  596  ls
+  597  ls .
+  598  ls
+  599  ls
+  600  ls~
+  601  ls ~
+  602  history
+  603  history 10
+  604  history less
+  605  history | less
+  606  history | less
+  607  man less
+  608  pwd
+  609  history 
+  610  cat
+  611  history > my_history
+  612  ls
+  613  cat my_history 
+  614  ls
+  615  cat my_history | less
+  616  ls
+  617  cat man lees
+  618  cat man less
+  619  cat less
+  620  cat my_history 
+  621  history
+  622  history less
+  623  less
+  624  less history
+  625  history | less
+  626  history >> my_history 
