@@ -1,0 +1,156 @@
+GIT NOTES:
+
+config:
+init: creates a repo in your current working directory
+status: provides info about the current state of your repo
+add: places a file inder the control of your repo(tracks it)
+commit: creates a permanent record of changes to your repo
+log: 
+diff --staged: shows the modification made to the repo/file
+
+personal note: github is a graph
+
+adding git history: 
+
+
+  439  which git
+  440  git --version
+  441  git status
+  442  git info
+  443  git --help
+  444  git config --global user.name "Emre Surmeli"
+  445  git config --global user.email "s.emre.s.8@gmail.com"
+  446  git email
+  447  git user.name
+  448  git config -l 
+  449  git config -l | sort
+  450  git config -l | sort | less
+  451  git config -l | user
+  452  pwd
+  453  ls
+  454  cd repo/
+  455  ls
+  456  cd
+  457  cd Desktop/
+  458  ls
+  459  cd 
+  460  cd dev
+  461  ls
+  462  cd F2JS/
+  463  l
+  464  ls
+  465  cd ..
+  466  ls
+  467  cd repo
+  468  ls
+  469  cd 
+  470  ls
+  471  mv uge_workshop/ /Users/emre/dev
+  472  ls
+  473  cd 
+  474  cd dev
+  475  ls
+  476  mkdir unix-git-workshop
+  477  ls
+  478  mv uge_workshop/
+  479  mv uge_workshop/ /unix-git-workshop
+  480  mv uge_workshop/ /unix-git-workshop
+  481  ls
+  482  cd unix-git-workshop/
+  483  ls
+  484  cd ..
+  485  ls
+  486  cd uge_workshop/
+  487  ls
+  488  cd ..
+  489  ls
+  490  git init
+  491  git status
+  492  ls
+  493  cd uge_workshop/
+  494  ls
+  495  cd ..
+  496  git add uge_workshop/
+  497  git status
+  498  git remove
+  499  git --help
+  500  git commit
+  501  cd
+  502  cd dev
+  503  ls
+  504  git status
+  505  git commit -m "adding unix notes, first draft"
+  506  git status
+  507  git log
+  508  las -al
+  509  ls -al
+  510  ls
+  511  rm unix-git-workshop/
+  512  ls
+  513  cd uge_workshop/
+  514  ls
+  515  subl . my_history 
+  516  subl . my_history 
+  517  subl . my_history 
+  518  git status
+  519  git add my_history 
+  520  git status
+  521  cd ..
+  522  git status
+  523  git status
+  524  git add uge_workshop/
+  525  git status
+  526  git dif --staged
+  527  git diff --staged
+  528  git commit -m "add notes about hidden files"
+  529  git status
+  530  git log
+  531  git log sort
+  532  git log | sort
+  533  git log
+  534  git ll
+  535  git ls
+  536  git la
+  537  git status
+  538  ls
+  539  git uge_workshop/
+  540  ls
+  541  cd uge_workshop/
+  542  ls
+  543  git branch git-notes
+  544  git branch
+  545  ls
+  546  touch git_notes
+  547  ls
+  548  subl . git_notes 
+  549  git checkout git-notes
+  550  git branch 
+  551  cd ..
+  552  ls
+  553  git branch
+  554  cd uge_workshop/
+  555  ls
+  556  git branch 
+  557  git status
+  558  ls
+  559  cd ..
+  560  ls
+  561  cd unix-git-workshop/
+  562  ls
+  563  cd ..
+  564  rm unix-git-workshop/
+  565  ls
+  566  cd unix-git-workshop/
+  567  ls
+  568  git status
+  569  cd ..
+  570  ls
+  571  cd uge_workshop/
+  572  l
+  573  sls
+  574  ls
+  575  cd git_notes 
+  576  touch git_notes.txt
+  577  ls
+  578  subl . git_notes.txt
+  579  history
