@@ -8,6 +8,7 @@ commit: creates a permanent record of changes to your repo
 log: 
 diff --staged: shows the modification made to the repo/file
 
+personal note: github is a graph
 
 adding git history: 
 
